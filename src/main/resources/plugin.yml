@@ -1,0 +1,10 @@
+name: CountryGetter
+version: 1.0
+main: me.miniblacktw.countrygetter.CountryGetter
+api-version: 1.8
+commands:
+  cg:
+    description: CountryGetter
+    usage: /cg info <player>
+    permission: cg.*
+    permission-message: "§cYou don't have permission"
