@@ -21,5 +21,5 @@ Now, you can see where they are
 ### PlayerInteractAtEntityEvent
    - **Stops players from removing the head on the armor stand**
 
-### AsyncPlayerChatEvent
-   - **Adds the prefix `Country | PlayerName`**
+~~### AsyncPlayerChatEvent~~ **(Removed)**
+   ~~- **Adds the prefix `Country | PlayerName`**~~
