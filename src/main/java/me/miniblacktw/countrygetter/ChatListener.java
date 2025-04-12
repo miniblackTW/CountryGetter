@@ -1,3 +1,4 @@
+/*
 package me.miniblacktw.countrygetter;
 
 import org.bukkit.event.Listener;
@@ -20,3 +21,4 @@ public class ChatListener implements Listener {
         e.setFormat(prefix + p.getName() + ": " + e.getMessage());
     }
 }
+*/
