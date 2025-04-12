@@ -38,7 +38,7 @@ public class CountryGetter extends JavaPlugin {
         getLogger().info("Enabled CountryGetter v1.0");
 
         Bukkit.getPluginManager().registerEvents(new PlayerListener(this), this);
-        Bukkit.getPluginManager().registerEvents(new ChatListener(this), this);
+        //Bukkit.getPluginManager().registerEvents(new ChatListener(this), this);
         this.getCommand("cg").setExecutor(new CGCommand(this));
     }
 
